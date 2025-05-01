@@ -36,7 +36,6 @@ A dynamic and interactive **Quiz Application** using **Java Swing**.
 - Score calculation
 - Restart and finish quiz options
 
-📂 Folder: [`Project 1 - Online Quiz Application`](./Project%201%20-%20Online%20Quiz%20Application)  
 📸 Output images & video demo are available inside the `output/` folder.
 
 ---
@@ -45,7 +44,7 @@ A dynamic and interactive **Quiz Application** using **Java Swing**.
 A basic GUI-based calculator built with **Java Swing**.  
 It supports addition, subtraction, multiplication, and division.
 
-📂 Folder: [`Project 2 - Simple Calculator`](./Project%202%20-%20Simple%20Calculator)
+📸 Output images & video demo are available inside the `output/` folder.
 
 ---
 
@@ -61,8 +60,10 @@ It supports addition, subtraction, multiplication, and division.
 
 ## 🔗 Useful Links
 
-- 👨‍💻 [LinkedIn Post for Project 1](https://www.linkedin.com/in/pritish9156) *(if shared)*
+- 👨‍💻 [LinkedIn Post for Project 1](https://www.linkedin.com/in/pritish9156) 
 - 📦 [GitHub Repo for Project 1](https://github.com/pritish9156/CODING-SAMURAI-INTERNSHIP-TASK/tree/main/Project%201%20-%20Online%20Quiz%20Application)
+
+- 👨‍💻 [LinkedIn Post for Project 2](https://www.linkedin.com/in/pritish9156) 
 
 ---
 
