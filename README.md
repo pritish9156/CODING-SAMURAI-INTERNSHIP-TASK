@@ -60,9 +60,9 @@ It supports addition, subtraction, multiplication, and division.
 
 ## 🔗 Useful Links
 
-- 👨‍💻 [LinkedIn Post for Project 1](https://www.linkedin.com/in/pritish9156) 
+- 👨‍💻 [LinkedIn Post for Project 1](https://www.linkedin.com/posts/pritishpawar_java-swing-projectcompleted-activity-7322294448091029504-BAaQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7WnF8BmZ-cB745hTky2UcSCH9LiZHzWLc)
 
-- 👨‍💻 [LinkedIn Post for Project 2](https://www.linkedin.com/in/pritish9156) 
+- 👨‍💻 [LinkedIn Post for Project 2](https://www.linkedin.com/posts/pritishpawar_java-calculator-consoleapp-activity-7323767736948441088-YvjB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC7WnF8BmZ-cB745hTky2UcSCH9LiZHzWLc)
 
 ---
 
