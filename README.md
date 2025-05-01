@@ -17,8 +17,8 @@ CODING-SAMURAI-INTERNSHIP-TASK/
 │
 ├── Project 2 - Simple Calculator/
 │   ├── src/
+│   ├── output/
 │   └── README.md
-│
 └── README.md ← (Main repository file)
 ```
 
