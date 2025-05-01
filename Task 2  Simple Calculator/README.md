@@ -50,6 +50,15 @@ CODING-SAMURAI-INTERNSHIP-TASK/
  └── README.md
 
 ## 📸 Sample Output
+![Main](https://github.com/user-attachments/assets/92798283-4287-4778-8104-c1c1c6b2b521)
+![Adding_output](https://github.com/user-attachments/assets/b3ad570d-e5a9-494e-9efc-7914b6a8fa3f)
+![Subtraction_output](https://github.com/user-attachments/assets/8c628ed0-8165-4ce3-9176-ad57ff85bae1)
+![Multiplication_output](https://github.com/user-attachments/assets/c3263834-bd48-41cc-8c24-56e2f266c33c)
+![Division_output](https://github.com/user-attachments/assets/364c5600-a756-4dca-96a5-54f4db2b521e)
+![Division_Error_ouput](https://github.com/user-attachments/assets/6941d2b5-b443-4046-af58-b72eb82f72d4)
+![Invalid_Input_output](https://github.com/user-attachments/assets/f19482ea-e144-4131-8695-d89404eb3e62)
+![Modulus_output](https://github.com/user-attachments/assets/bb27388c-4ed4-4851-bd65-7f137136bcf8)
+![Exit_ouput](https://github.com/user-attachments/assets/3a88ceae-3fef-494c-9bf8-9b9512582da9)
 
 
 ## 💻 How to Run
