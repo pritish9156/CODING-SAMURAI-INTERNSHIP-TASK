@@ -10,12 +10,12 @@ This repository contains the projects I completed during my internship with **Co
 ```
 CODING-SAMURAI-INTERNSHIP-TASK/
 │
-├── Project 1 - Online Quiz Application/
+├── Task 1 - Online Quiz Application/
 │   ├── src/
 │   ├── output/
 │   └── README.md
 │
-├── Project 2 - Simple Calculator/
+├── Task 2 - Simple Calculator/
 │   ├── src/
 │   ├── output/
 │   └── README.md
