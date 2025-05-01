@@ -61,7 +61,6 @@ It supports addition, subtraction, multiplication, and division.
 ## 🔗 Useful Links
 
 - 👨‍💻 [LinkedIn Post for Project 1](https://www.linkedin.com/in/pritish9156) 
-- 📦 [GitHub Repo for Project 1](https://github.com/pritish9156/CODING-SAMURAI-INTERNSHIP-TASK/tree/main/Project%201%20-%20Online%20Quiz%20Application)
 
 - 👨‍💻 [LinkedIn Post for Project 2](https://www.linkedin.com/in/pritish9156) 
 
